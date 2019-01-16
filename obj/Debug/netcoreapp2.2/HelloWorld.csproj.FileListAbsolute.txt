@@ -1,0 +1,11 @@
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\Garrett Maag\OneDrive\AMIS_3610_Code\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
